@@ -1,0 +1,14 @@
+Binary tree
+----------
+1. at most 2 children 
+2. contains 
+	- data
+	- pointer to left child 
+	- pointer to right child
+3. hierarchical data structure	
+
+=> Why tree?
+- information that naturally form hierarchy.
+- provide moderate access/search (quicker than Linked List and Slower than array)
+- provide moderate insertion/deletion (quicker than Arrays and Slower than unordered Linked List)
+- Like Linked Lists and unlike Arrays, Trees don’t have an upper limit on number of nodes as nodes are linked using pointers. 

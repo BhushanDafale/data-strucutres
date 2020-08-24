@@ -1,0 +1,20 @@
+
+# BFS - Breadth First Traversal (Level Order Traversal)
+
+# DFS - Depth First Traversal 
+		Preorder Traversal (Root-Left-Right)
+		Inorder Traversal (Left-Root-Right)
+		Postorder Traversal (Left-Right-Root)
+		
+# Time Complexity 
+  - All 4 traversal required O(n) time complexity as they visit every node at once.
+
+# Extra Space
+  - BFS: O(w), w - maximum width of binary tree
+  	- queue one by one stores nodes of different level
+  	
+  - DFS: O(h), h - maximum height of binary tree
+  	- stack (or function call stack) stores all ancestors of a node.
+  	
+#   	
+    		
